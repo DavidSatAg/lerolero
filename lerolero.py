@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
-***Gerador de lero-lero.
+#Gerador de lero-lero.
 
-Gera frases de efeito sem significado real.***
+#Gera frases de efeito sem significado real.
 
 import random
 
@@ -24,6 +24,11 @@ parte3 = [
     "em relação às opções disponíveis no mercado",
     ", provendo ampla vantagem competitiva a seus usuários"
 ]
+
+
+lingua = int(input("Escolha a lingua 1 - Portugues, 2 - Ingles"))
+
+if lingua == 1
 
 # Combina as partes aleatoriamente
 print(random.choice(parte1), random.choice(parte2), random.choice(parte3))
