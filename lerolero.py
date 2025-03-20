@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
-***Gerador de lero-lero.
+#Gerador de lero-lero.
 
-Gera frases de efeito sem significado real.***
+#Gera frases de efeito sem significado real.
 
 import random
 
