@@ -13,6 +13,7 @@ parte1 = [
     "O sistema em desenvolvimento",
     "O novo protocolo de comunicação",
     "O algoritmo otimizado 2"
+
 ]
 parte2 = [
     "possui excelente desempenho",
